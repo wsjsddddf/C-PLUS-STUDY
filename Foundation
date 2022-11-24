@@ -1,5 +1,17 @@
 C++ 란? > 0,1만을 이해하는 기계어와 달리 인간이 이해하기 (비교적) 쉽게 만들어진 언어
           ㄴ 인간의 이해하기쉬운 자연어와 가까울수록 High-Level 이고 기계어와 가까울수록 Low-Level
 
-변수 > 
+변수란? > 컴퓨터 메모리 공간에 값을 저장, 변경, 사용 가능한 공간을 의미함
+
+정수형 : int 4, short int 2, long ing 4, unsigned int 4, unsigned short int 2,  unsigned <부호가 없는 대신 +로 표현가능한 범위 넓음>
+
+실수형 : float 4, 소수 저장
+배정도형 실수 : double 8, long double 8
+
+문자형 : char 1, unsigned char 1 <한국어는 2바이트>
+
+
+
+
+
 

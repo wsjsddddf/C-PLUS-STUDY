@@ -9,14 +9,14 @@ int main() {
 	cin >> num;
 		if(cin.good())
 		{
-			cout << "Á¤»ó" << endl;
+			cout << "ì •ìƒ" << endl;
 			break;
 		}
 
 		if(cin.fail()){
 			cout << "!!!" << endl;
 			cin.clear();
-			cin.ignore(10, '\n'); // ->ÀÔ·Â¹öÆÛ ºñ¿öÁÜ
+			cin.ignore(10, '\n'); // ->ì…ë ¥ë²„í¼ í´ë¦¬ì–´
 		}
 	}
 
